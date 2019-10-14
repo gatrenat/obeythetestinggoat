@@ -7,3 +7,4 @@
 *.[oa]
 *.pyc
 geckodriver.log
+db.sqlite3
