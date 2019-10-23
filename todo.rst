@@ -13,4 +13,4 @@ Link to the current page:
 https://www.obeythetestinggoat.com/book/chapter_post_and_database.html
 
 
-On Three Strikes and Refactor
+On The Django ORM and Our First Model
