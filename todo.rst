@@ -11,3 +11,6 @@ Link to the current page:
 =========================
 
 https://www.obeythetestinggoat.com/book/chapter_explicit_waits_1.html
+
+Testing "Best Practices" Applied in this Chapter
+Chapter done
