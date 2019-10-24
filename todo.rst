@@ -10,14 +10,4 @@ https://www.obeythetestinggoat.com/book/chapter_01.html
 Link to the current page:
 =========================
 
-https://www.obeythetestinggoat.com/book/chapter_post_and_database.html
-
-
-On Redirect After a POST
-
-
-    Display multiple items in the table
-
-    Support more than one list!
-
-
+https://www.obeythetestinggoat.com/book/chapter_explicit_waits_1.html
