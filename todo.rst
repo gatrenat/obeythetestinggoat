@@ -12,6 +12,8 @@ Link to the current page:
 
 https://www.obeythetestinggoat.com/book/chapter_working_incrementally.html
 
+on Another Small Step: A Separate Template for Viewing Lists
+
 Scratchpad
 ==========
 
