@@ -10,7 +10,16 @@ https://www.obeythetestinggoat.com/book/chapter_01.html
 Link to the current page:
 =========================
 
-https://www.obeythetestinggoat.com/book/chapter_explicit_waits_1.html
+https://www.obeythetestinggoat.com/book/chapter_working_incrementally.html
 
-Testing "Best Practices" Applied in this Chapter
-Chapter done
+Scratchpad
+==========
+
+    Adjust model so that items are associated with different lists
+
+    Add unique URLs for each list
+
+    Add a URL for creating a new list via POST
+
+    Add URLs for adding a new item to an existing list via POST
+
