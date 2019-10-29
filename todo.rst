@@ -10,9 +10,9 @@ https://www.obeythetestinggoat.com/book/chapter_01.html
 Link to the current page:
 =========================
 
-https://www.obeythetestinggoat.com/book/chapter_working_incrementally.html
+https://www.obeythetestinggoat.com/book/chapter_prettification.html
 
-Finished! Go for next chap
+Starting chap
 
 Scratchpad
 ==========
