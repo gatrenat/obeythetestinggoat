@@ -12,12 +12,8 @@ Link to the current page:
 
 https://www.obeythetestinggoat.com/book/chapter_working_incrementally.html
 
-on A Final Refactor Using URL includes
+Finished! Go for next chap
 
 Scratchpad
 ==========
-
-    Add unique URLs for each list
-
-    Add URLs for adding a new item to an existing list via POST
 
