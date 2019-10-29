@@ -12,7 +12,7 @@ Link to the current page:
 
 https://www.obeythetestinggoat.com/book/chapter_working_incrementally.html
 
-on Each List Should Have Its Own URL
+on A Final Refactor Using URL includes
 
 Scratchpad
 ==========
